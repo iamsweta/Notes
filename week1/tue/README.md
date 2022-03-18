@@ -72,13 +72,3 @@ To create a branch
 To switch between branches
 
 - `git checkout <existing branch name>`
-
-# AWS introduction
-
-# AWS EC2
-
-# AMI
-
-# Security groups
-
-# SSH into EC2 instance
