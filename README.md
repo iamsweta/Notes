@@ -2,14 +2,12 @@
 
 ## Zoom Link
 
-Topic: Appian Zoom Meeting Time: This is a recurring meeting Meet anytime
+Join Zoom Meeting
+https://zoom.us/j/95528581036?pwd=NDU2MXVLbjFUdnQzVkVGNjdMT1Vpdz09
 
-**Join Zoom Meeting**
-https://zoom.us/j/96859202508?pwd=U0FUVzhIdG0zQjRWNFAwK2pGTjFKdz09
+Meeting ID: 955 2858 1036 
 
-**Meeting ID**: 968 5920 2508
-
-**Passcode**: revature
+Passcode: revature
 
 
 
