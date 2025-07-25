@@ -11,7 +11,6 @@ https://zoom.us/j/95528581036?pwd=NDU2MXVLbjFUdnQzVkVGNjdMT1Vpdz09
 
 ## Discord Link
 
-**Link**: https://discord.gg/FEjgctDP
 
 
 
